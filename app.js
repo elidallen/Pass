@@ -79,7 +79,7 @@ function clonePerson(person) {
     sad: 'Feeling down.',
   };
   
-  personOne.thoughts = thoughts;
+  
   personTwo.thoughts = thoughts;
   personThree.thoughts = thoughts;
   
